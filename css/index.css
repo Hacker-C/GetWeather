@@ -1,0 +1,7 @@
+@media screen and (max-width: 376px) {
+    .select-box,
+    .search-box {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+}
