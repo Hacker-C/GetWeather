@@ -1,4 +1,4 @@
-@media screen and (max-width: 376px) {
+@media screen and (min-width: 320px) {
     .select-box,
     .search-box {
         padding-left: 15px !important;
